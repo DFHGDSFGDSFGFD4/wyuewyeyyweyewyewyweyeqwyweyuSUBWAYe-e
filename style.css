@@ -1,0 +1,18 @@
+.heading {
+    font-size: 18px;
+    width: 100%;
+    margin: 0px;
+    background-color:grey;
+}
+
+.button1 {
+    background-color: indianred;
+    box-align: center;
+    font-size: 18px;
+    border-radius: 6px;
+} 
+
+canvas {
+    border:5px solid rebeccapurple;
+    border-radius: 20px;
+}
